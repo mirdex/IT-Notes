@@ -15,6 +15,7 @@
 
 ## 資料科學的內功心法
 
+- [統計學]
 - [機器學習](https://mirdex.github.io/mirdex_learning/)
 
 ## 其他學習筆記

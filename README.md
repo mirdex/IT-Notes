@@ -9,7 +9,7 @@
 
 - [R語言於資料科學的應用]
 
-- [Python於資料科學的應用]
+- [Python於資料科學的應用](https://mirdex.github.io/Python/)
 
 - [Java於資料科學的應用]
 
